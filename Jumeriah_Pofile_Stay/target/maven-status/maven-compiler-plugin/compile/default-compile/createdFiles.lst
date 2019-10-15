@@ -1,0 +1,13 @@
+com\amazonaws\lambda\demo\DYNAMODBCalls.class
+com\amazonaws\lambda\demo\compare_PMSandGravity.class
+com\amazonaws\lambda\demo\Bucket.class
+com\amazonaws\lambda\demo\APICalls.class
+com\amazonaws\lambda\demo\Result_Parse.class
+com\amazonaws\lambda\demo\PARSE_BIT.class
+com\amazonaws\lambda\demo\ProfileStreamParsing.class
+com\amazonaws\lambda\demo\config.class
+com\amazonaws\lambda\demo\RESERVATION_PARSE.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
+com\amazonaws\lambda\demo\RATE_Parse.class
+com\amazonaws\lambda\demo\member_API.class
+com\amazonaws\lambda\demo\STAY_Inject_data_into_Kinesis_stream.class
